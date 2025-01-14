@@ -9,3 +9,8 @@ console.log(/*ADDITION OF TWO NUMBERS */ 4 + 10);
     that spans multiple lines
     this will cater for all the codes inside the program
 */
+/* 
+    This is a multi-line comment
+    that spans multiple lines
+    this will cater for all the codes inside the program
+*/
