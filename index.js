@@ -1,1 +1,1 @@
-console.log('Hello world');
+console.log('Code elevators are fun!');
