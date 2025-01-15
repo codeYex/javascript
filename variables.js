@@ -21,8 +21,8 @@ console.log(color) ;
 const pageLoadTime = 32 ; 
 
 
-let name = 'John';
-let admin = name;
+let clientName = 'John';
+let admin = clientName;
 console.log(admin); // John
 
 
@@ -31,3 +31,8 @@ namePolice = 'John';
 administrator = namePolice;
 
 console.log(administrator);
+
+
+let planetName , currentVisitor;
+planetName = 'earth';
+currentVisitor = 'John Doe'
