@@ -37,3 +37,4 @@ console.log(administrator);
 let planetName , currentVisitor;
 planetName = 'earth';
 currentVisitor = 'John Doe'
+
