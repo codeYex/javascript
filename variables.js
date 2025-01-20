@@ -38,3 +38,13 @@ let planetName , currentVisitor;
 planetName = 'earth';
 currentVisitor = 'John Doe'
 
+
+let changeMe = true;  //LET VARIABLES CAN BE REASSIGNED
+changeMe = false;
+console.log(changeMe);
+
+const myName = 'angel';    // COST VARIABLES CANNOT BE REASSIGNED
+console.log(myName);
+
+const myUsers = 43;
+console.log(myUsers);
