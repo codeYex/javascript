@@ -41,3 +41,5 @@ if (a < b) {
 console.log(Math.floor(Math.random() * 450)); //logs a whole number
 console.log(Math.ceil(32.9));
 console.log(Number.isInteger(2017));
+
+

@@ -9,7 +9,7 @@
 let age = 32;
 console.log('my name is ' + 'Francis');
 console.log('Wo' + 'oah');
-console.log('Your age is ' + age);
+console.log('Your age is ' , age);
 console.log('front ' + 'space');
 console.log('no' + 'space');
 console.log('Upgraded' + ' ' + 'Documentation');
