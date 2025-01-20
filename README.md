@@ -14,3 +14,4 @@ An operator is a character that performs a task in our code. JavaScript has seve
     Divide: /
     Remainder: %
 
+![Screenshot 2025-01-20 232150](https://github.com/user-attachments/assets/6f088bb6-4ef5-49f9-a914-15aff31dfc15)
